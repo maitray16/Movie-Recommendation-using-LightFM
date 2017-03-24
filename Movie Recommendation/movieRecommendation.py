@@ -37,48 +37,48 @@ sample_recommendation(model, data, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 OUTPUT
 
 User 1
-   --Known positives:
+   --Known Movies:
         Toy Story (1995)
         Postino, Il (1994)
         Birdcage, The (1996)
-   --Recommended:
+   --Recommended Movies:
         English Patient, The (1996)
-        Sense and Sensibility (1995)
-        Air Force One (1997)
+        Contact (1997)
+        L.A. Confidential (1997)
 User 2
-   --Known positives:
+   --Known Movies:
         Return of the Jedi (1983)
         Event Horizon (1997)
         Schindler's List (1993)
-   --Recommended:
+   --Recommended Movies:
+        Contact (1997)
+        Scream (1996)
         L.A. Confidential (1997)
-        Jackie Brown (1997)
-        Gattaca (1997)
 User 3
-   --Known positives:
+   --Known Movies:
         Seven (Se7en) (1995)
         Contact (1997)
         Starship Troopers (1997)
-   --Recommended:
+   --Recommended Movies:
         Scream (1996)
         Game, The (1997)
-        Contact (1997)
+        Air Force One (1997)
 User 4
-   --Known positives:
+   --Known Movies:
         Rumble in the Bronx (1995)
         Batman Forever (1995)
         To Wong Foo, Thanks for Everything! Julie Newmar (1995)
-   --Recommended:
-        Empire Strikes Back, The (1980)
+   --Recommended Movies:
         Raiders of the Lost Ark (1981)
-        Star Wars (1977)
+        Monty Python and the Holy Grail (1974)
+        Terminator, The (1984)
 User 5
-   --Known positives:
+   --Known Movies:
         Toy Story (1995)
         Babe (1995)
         Dead Man Walking (1995)
-   --Recommended:
-        Casablanca (1942)
-        Lawrence of Arabia (1962)
-        Graduate, The (1967)
+   --Recommended Movies:
+        Godfather, The (1972)
+        Rear Window (1954)
+        Annie Hall (1977)
 '''
